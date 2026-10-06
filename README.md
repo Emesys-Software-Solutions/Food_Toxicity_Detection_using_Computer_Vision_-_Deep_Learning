@@ -502,20 +502,11 @@ The application loads the trained `best.pt` model and connects user input to YOL
 
 # 📷 Project Screenshots
 
-> Add your project screenshots inside the `images/` folder.
-
-## 🖥️ Streamlit Application
-
-<p align="center">
-  <img src="images/streamlit-app.png" alt="Food Toxicity Detection Streamlit Application" width="900">
-</p>
-
----
 
 ## 🔍 Food Detection
 
 <p align="center">
-  <img src="images/food-detection.png" alt="Food Detection Results" width="900">
+  <img src="images/food_detection.png" alt="Food Detection Results" width="900">
 </p>
 
 ---
@@ -523,15 +514,22 @@ The application loads the trained `best.pt` model and connects user input to YOL
 ## 🍎 Rotten Food Detection
 
 <p align="center">
-  <img src="images/rotten-food-detection.png" alt="Rotten Food Detection" width="900">
+  <img src="images/rotten_food_detection.png" alt="Rotten Food Detection" width="900">
 </p>
 
 ---
 
+## 🖥️ Food Toxicity Detection
+
+<p align="center">
+  <img src="images/Food_Toxicity_Detection.png" alt="Food Toxicity Detection Streamlit Application" width="900">
+</p>
+
+---
 ## 📊 Detection Results
 
 <p align="center">
-  <img src="images/detection-results.png" alt="Detection Results" width="900">
+  <img src="images/detection_results.png" alt="Detection Results" width="900">
 </p>
 
 ---
