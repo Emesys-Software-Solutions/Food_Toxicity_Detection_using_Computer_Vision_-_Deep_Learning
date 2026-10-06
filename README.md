@@ -506,7 +506,7 @@ The application loads the trained `best.pt` model and connects user input to YOL
 ## 🔍 Food Detection
 
 <p align="center">
-  <img src="images/food_detection.png" alt="Food Detection Results" width="900">
+  <img src="images/Food Detection.jpeg" alt="Food Detection Results" width="900">
 </p>
 
 ---
@@ -514,7 +514,7 @@ The application loads the trained `best.pt` model and connects user input to YOL
 ## 🍎 Rotten Food Detection
 
 <p align="center">
-  <img src="images/rotten_food_detection.png" alt="Rotten Food Detection" width="900">
+  <img src="images/Rotten_Food_Detection.jpeg" alt="Rotten Food Detection" width="900">
 </p>
 
 ---
@@ -522,14 +522,14 @@ The application loads the trained `best.pt` model and connects user input to YOL
 ## 🖥️ Food Toxicity Detection
 
 <p align="center">
-  <img src="images/Food_Toxicity_Detection.png" alt="Food Toxicity Detection Streamlit Application" width="900">
+  <img src="images/Food_Toxicity_Detection.jpeg" alt="Food Toxicity Detection Streamlit Application" width="900">
 </p>
 
 ---
 ## 📊 Detection Results
 
 <p align="center">
-  <img src="images/detection_results.png" alt="Detection Results" width="900">
+  <img src="images/Detection_Results.jpeg" alt="Detection Results" width="900">
 </p>
 
 ---
